@@ -13033,4 +13033,35 @@ html {
     border-radius: 5px;
     float: left;
   }
+  .tempcontrol-pic{
+    width: 599px;
+    margin-top:32px;
+    border-radius: 5px;
+  }
+  .per1-pic-inside{
+    width: 599px;
+    margin-top:32px;
+    border-radius: 5px;
+  }
+  .sport-pic{
+    width: 599px;
+    margin-top:32px;
+    border-radius: 5px;
+  }
+  .openhouse-pic{
+    width: 599px;
+    margin-top:32px;
+    border-radius: 5px;
+  }
+  .rordor-pic{  
+    width: 599px;
+    margin-top:32px;
+    border-radius: 5px;
+  }
+  .christmas-pic{
+    width: 599px;
+    margin-top:32px;
+    border-radius: 5px;
+
+  }
 }
