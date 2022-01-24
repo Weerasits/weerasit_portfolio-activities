@@ -12193,6 +12193,79 @@ html {
   .per-1-pic{
     width: 311px;
   }
+  .tempcontrol-pic{
+    width: 500px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  .allu-pic{
+    width: 314px;
+    margin-top:51px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  } 
+  .fluid-title{
+    margin-top:132px;
+    margin-bottom:5px;
+  }
+  .fluid-pic{
+    width: 314px;
+  }
+  .assem-text{
+    margin-top:5px;
+  }
+  .photoshop-pic{
+    margin-top:5px;
+    width: 342px;
+    margin-left:5px;
+    margin-bottom:15px;
+  }
+  .photoshop-title{
+    margin-top:89px;
+  }
+  .per1-pic-inside{
+    width: 338px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  .openhouse-pic{
+    width: 338px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  .rordor-pic{
+    width: 338px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  .christmas-pic{
+    width: 338px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  .trainning-1{
+    width: 338px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  .trainning-2{
+    width: 338px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
+  .trainning-3{
+    width: 338px;
+    margin-top:15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+  }
 }
 
 
@@ -13062,6 +13135,25 @@ html {
     width: 599px;
     margin-top:32px;
     border-radius: 5px;
-
+  }
+  .trainning-1{
+    width: 599px;
+    margin-top:32px;
+    border-radius: 5px; 
+  }
+  .trainning-2{
+    width: 599px;
+    margin-top:32px;
+    border-radius: 5px; 
+  }
+  .trainning-3{
+    width: 599px;
+    margin-top:32px;
+    border-radius: 5px; 
+  }
+  .trainning-4{
+    width: 599px;
+    margin-top:32px;
+    border-radius: 5px; 
   }
 }
